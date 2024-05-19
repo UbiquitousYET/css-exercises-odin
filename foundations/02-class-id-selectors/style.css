@@ -1,0 +1,19 @@
+.oddnumbered {
+    background-color: rgb(231, 171, 181);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#First_ID {
+    color: rgb(57, 57, 253);
+    font-size: 36px;
+}
+
+#Second_ID {
+    background-color: rgb(104, 206, 104);
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.cooler-class {
+    font-size: 24px;
+}
